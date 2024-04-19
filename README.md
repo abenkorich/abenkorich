@@ -3,14 +3,14 @@
 </p>
 <p align="center" >
   💻🖥📱🛠⚙🕹<br>
-  Code more, Learn more<br>
-  Hack More, Enjoy More
+  Code more, Learn more, Hack More, Enjoy More
 </p>
 
 # Hi community 🖐 , I'm Abdellah Benkorich, Electronics/Computer Engineer.
 
-I Work full timec as Biomedical Customer Service Engineer, I do interst in Front/Back End Web and Hybride mobile App Developements. I Help people starting thiere ECommerce using opencart CMS and i design plugins for Opencart.
+I'm a former Biomedical Customer Service Manager, I Love cross-platform fullstack software Developements. I Help people starting thier Ecommerce using opencart.
 
+  <!--
 <table style="border-size:0px">
   <tr >
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/free-php-27-226042.png" width="90"> PHP </td>    
@@ -20,24 +20,44 @@ I Work full timec as Biomedical Customer Service Engineer, I do interst in Front
   </tr>
 </table>
 
+-->
+
 ### Me in few lines: 
 - 👀 I’m interested in Electronics, Arduino, Raspberry PI, Linux, Java, NodeJS, React, React Native, Angular, Material UI, Bootstrap, Opencart, PHP, MongoDB, Mysql, CodeIgniter
 - 🌱 I’m currently learning NodeJs, Express, React, React-Native, MUI
 - 💞️ I’m looking to collaborate on New Web Devolempement Technilogies and use them along with modern Electronics.
 - 📫 How to reach hello@bena.dev, https://bena.dev
-*### Languages and Tools
 
-<p align="center">
+- 👨🏼‍💻 Former Technical Manager at Siemens healthineers
+- 👨‍💻 Founder of Dzduino Electronics (https://dzduino.com)
+- 😎 Founder of BenaDev (https://benadev.com)
+- ⚙  I design opencart extensions
+- 👨🏼‍💻 A comming soon Udemy Instructor.
+- 🌱 Learning more about and studying : `React` , `Python`, `Data Science`, `Machine Learning`, `Deep Learning` , `Generative AI` 
+- 👯 I’m looking to open source collaboration.
+- 🥅 2024 Goals: Contribute more to Open Source projects & Get in AI 
+- 👋 [my website](https://bena.dev)
+---------
+- 🚀 [My linkedin Profile](https://www.linkedin.com/in/abenkorich)
+- 🚀 [My account @Medium](https://medium.com/@a.benkorich)
+- 🚀 [My account @dev.to](https://dev.to/abenkorich)
+- 🚀 [My Stackoverflow Account](https://stackoverflow.com/users/24508569/abdellah-benkorich)
+- 🚀 [My Opencart Account](https://www.opencart.com/index.php?route=marketplace/extension&filter_member=bena.dev)
+<br />
+
+### Languages and Tools I master:
+
+<div align="center">
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+</div>
 
-### Languages and Tools:
-<div align="left">
+### Languages and Tools I've used:
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -70,15 +90,15 @@ I Work full timec as Biomedical Customer Service Engineer, I do interst in Front
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
