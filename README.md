@@ -23,8 +23,8 @@ I'm a former Biomedical Customer Service Manager, I Love cross-platform fullstac
 -->
 
 ### Me in few lines: 
-- 👀 I’m interested in Electronics, Arduino, Raspberry PI, Linux, Java, NodeJS, React, React Native, Angular, Material UI, Bootstrap, Opencart, PHP, MongoDB, Mysql, CodeIgniter
-- 🌱 I’m currently learning NodeJs, Express, React, React-Native, MUI
+- 👀 I’m interested in Electronics, IOT, Arduino, Raspberry PI, Linux, JavaScript, NodeJS, React, React Native, NextJS, SvelteKit, Shadcn, Tailwind, Bootstrap, Opencart, PHP, CodeIgniter, MongoDB, Mysql And Postgres
+- 🌱 I’m currently Expanding My knowledg In Svelte, NextJS, React, React-Native, Shadcn
 - 💞️ I’m looking to collaborate on New Web Devolempement Technilogies and use them along with modern Electronics.
 - 📫 How to reach hello@bena.dev, https://bena.dev
 
@@ -32,8 +32,8 @@ I'm a former Biomedical Customer Service Manager, I Love cross-platform fullstac
 - 👨‍💻 Founder of Dzduino Electronics (https://dzduino.com)
 - 😎 Founder of BenaDev (https://benadev.com)
 - ⚙  I design opencart extensions
-- 👨🏼‍💻 A comming soon Udemy Instructor.
-- 🌱 Learning more about and studying : `React` , `Python`, `Data Science`, `Machine Learning`, `Deep Learning` , `Generative AI` 
+- 👨🏼‍💻 A comming soon A Udemy Instructor (Inchaa Allah).
+- 🌱 Learning more about and studying : `JavaScript Framworks` , `Python`, `Data Science`, `Machine Learning`, `Deep Learning` , `Generative AI` 
 - 👯 I’m looking to open source collaboration.
 - 🥅 2024 Goals: Contribute more to Open Source projects & Get in AI 
 - 👋 [my website](https://bena.dev)
